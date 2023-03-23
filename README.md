@@ -1,5 +1,13 @@
 # Data-Analysis-with-Python
-Learn the basics of Python, Numpy, Pandas, Data Visualization, and Exploratory Data Analysis
+Learn the basics of Python, Numpy, Pandas, Data Visualization, and Exploratory Data Analysis. This was originally presented as a live course.
+
+By the end of the course, you will be able to build an end-to-end real-world course project. There are no prerequisites for this course.
+
+This full course includes 3 lectures:
+
+* Analyzing Tabular Data with Pandas
+* Visualization with Matplotlib and Seaborn
+* Exploratory Data Analysis - A Case Study
 
 # Learning Path
 This is my suggested learning path
